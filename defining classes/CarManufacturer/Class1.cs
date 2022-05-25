@@ -68,6 +68,8 @@ double cubicCapacity;
             this.Engine = engine;
             this.Tires = tires;
         }
+
+
     public string Make { get { return this.make; } set { this.make = value; } }
     public string Model { get { return this.model; } set { this.model = value; } }
     public int Year { get { return this.year; } set { this.year = value; } }
@@ -75,6 +77,8 @@ double cubicCapacity;
     public double FuelConsumption { get { return this.fuelConsumption; } set { this.fuelConsumption = value; } }
         public Engine Engine { get { return this.engine; }set { this.engine = value; } }
         public Tire[] Tires { get { return this.tires; }set { this.tires = value; } } 
+
+
     public void Drive(double distance)
     {
         if (fuelQuantity - distance * fuelConsumption > 0)
@@ -91,4 +95,5 @@ double cubicCapacity;
         return $"Make: {this.Make}\nModel: { this.Model}\nYear: { this.Year}\nFuel: { this.FuelQuantity:F2}";
 
     }
-}   }
+}  
+}
