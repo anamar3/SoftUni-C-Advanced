@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.exe
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.deps.json
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.runtimeconfig.json
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.runtimeconfig.dev.json
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.dll
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\bin\Debug\netcoreapp3.1\1. Predicate Party!.pdb
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.AssemblyInfo.cs
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.dll
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.pdb
+C:\Users\PC\source\repos\functional programming\1. Predicate Party!\obj\Debug\netcoreapp3.1\1. Predicate Party!.genruntimeconfig.cache

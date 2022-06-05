@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.exe
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.deps.json
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.runtimeconfig.json
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.dll
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\bin\Debug\netcoreapp3.1\1. Reverse and Exclude.pdb
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.dll
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.pdb
+C:\Users\PC\source\repos\functional programming\1. Reverse and Exclude\obj\Debug\netcoreapp3.1\1. Reverse and Exclude.genruntimeconfig.cache
